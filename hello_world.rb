@@ -1,1 +1,1 @@
-puts "Hello World! Suck my ass."
+puts "Hello World!"
